@@ -143,7 +143,7 @@ def build_transcript_txt(segments: list) -> str:
     lines = [
         "=" * 70,
         "URDU-ENGLISH MEETING TRANSCRIPTION",
-        "National Language Processing — FYP (Wajeeha Islam, Kinza Aslam)",
+        "National Language Processing — FYP (M. Hassan Azmat, Wajeeha Islam, Kinza Aslam)",
         "=" * 70, "",
     ]
     for i, block in enumerate(merge_consecutive_speakers(segments), 1):
