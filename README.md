@@ -3,7 +3,7 @@
 An end-to-end pipeline that transcribes Urdu/code-mixed meeting audio,
 identifies speakers, corrects ASR errors, and translates to English.
 
-**FYP Mates:** Muhammad Hassan Azmat(22-CS-15), Wajeeha Islam (22-SE-18), Kinza Aslam (22-SE-76)  
+**FYP Mates:** Muhammad Hassan Azmat, Wajeeha Islam, Kinza Aslam 
 **Supervisor:** Ma'am Maria · **Session:** 2022–2026, UET Taxila
 
 ---
@@ -228,5 +228,4 @@ ValueError: GROQ_API_KEY not found in .env file
 - For demo/viva: run Colab first, then Streamlit locally
 
 ## License
-
-For academic use only — UET Taxila FYP 2026.
+For every use
